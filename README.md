@@ -26,6 +26,15 @@
 - Exporing Development
 ---
 
+## Highlights
+Here are some highlights of what you'll discover in this repository:
+
+1. **Java Projects**: From simple console-based programs to more complex applications, my Java projects demonstrate my proficiency in the language and object-oriented programming principles.
+
+2. **Data Structures and Algorithms**: Dive into implementations of essential data structures like linked lists, trees, graphs, and algorithms such as sorting, searching, and dynamic programming.
+
+3. **Web Development**: Explore my web development projects built wit
+
 ### 📂 My Projects:
 - [Online Code Editor](https://github.com/yourusername/online-code-editor) - A web-based code editor with real-time collaboration.
 - [Machine Learning Based Blood Cell Categorization](https://github.com/yourusername/ML-blood-cell-categorization) - Classification of blood cells using machine learning models.
