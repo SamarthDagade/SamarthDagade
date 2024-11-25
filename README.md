@@ -17,7 +17,7 @@
 ### 🛠️ Technologies & Tools:
 - **Languages:** Java, OOP, Data Structure and Algorithms, Dart, Regex,
 - **Web:** HTML, CSS
-- **Database:** MySQL, Microsoft SQL Server
+- **Database:** MySQL, Microsoft SQL Server 
 - **Tools:** GitHub, IntelliJ IDEA, Visual Studio Code, Eclipse
 
 ---
@@ -53,7 +53,7 @@
 ---
 
 ### ⭐ My GitHub Stats:
-![Samarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Samarth's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs](https://github-readme-stats.vercel.app/api?username=samarthdagade&show_icons=true&hide_title=true&count_private=true&hide=prs))
 
 ---
 
