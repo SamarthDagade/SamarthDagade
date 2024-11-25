@@ -35,7 +35,7 @@
 ---
 
 ### 📑 My Published Work:
-- [**Research Paper** - Machine Learning for Blood Cell Categorization](https://link-to-your-paper.com)
+- [**Research Paper** - Machine Learning for Blood Cell Categorization]([https://link-to-your-paper.com](https://ijsrst.com/home/issue/view/article.php?id=IJSRST52310587))
 
 ---
 
