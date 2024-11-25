@@ -15,7 +15,7 @@
 ---
 
 ### 🛠️ Technologies & Tools:
-- **Languages:** Java, Python, JavaScript, SQL
+- **Languages:** Java, OOP, Data Structure and Algorithms, Dart, Regex,
 - **Web:** HTML, CSS
 - **Database:** MySQL, Microsoft SQL Server
 - **Tools:** GitHub, IntelliJ IDEA, Visual Studio Code, Eclipse
@@ -23,9 +23,7 @@
 ---
 
 ### 🌱 Currently Learning:
-- **Multithreading** in Java
-- Exploring **Machine Learning** and **AI** applications.
-
+- Exporing Development
 ---
 
 ### 📂 My Projects:
@@ -42,8 +40,7 @@
 
 ### 📞 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/samarthdagade)
-- [Instagram](https://www.instagram.com/yourusername)
-- Email: your.email@example.com
+- Email: samarthdagade@gmail.com
 
 ---
 
