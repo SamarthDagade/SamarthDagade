@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Samarth Dagade
 
 🎓 **Software Developer | Engineering Graduate '24**
-
+ 
 🔧 Passionate about building high-quality, efficient, and scalable applications.
 
 ---
